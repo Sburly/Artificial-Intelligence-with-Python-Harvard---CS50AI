@@ -1,3 +1,5 @@
+Note: THIS REPOSITORY WAS SUPPOSED TO CONTAIN A DATABASE SUBDIVIDED INTO 43 SUBREPOSITORIES, REPRESENTING THE DATAS THE SCRIPT SHOULD HAVE WORKED WITH. HOWEVER, DUE TO THE DIMENSION OF THIS DATABASE, I WAS NOT ABLE TO UPLOAD IT. NEVERTHELESS I HAVE INCLUDED THE LINK AT THE YOUTUBE VIDEO SHOWCASING ITS OUTPOUT IN THE MAIN README FILE.
+
 In my project, I started by building a basic model. It was designed to process images. The first model included:
 
 - Convolution Layer: It had 32 filters with a 3x3 grid size (also known as kernel). I also used a function called ReLU for this layer. The shape of the input was set to IMG_WIDTH, IMG_HEIGHT, 3.
